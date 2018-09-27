@@ -14,7 +14,7 @@ Muhammad Ali-Frazer Box Match- Random Health Players
 ---TURKISH VERSION---
 
 
-from __future__ import print_function
+#from __future__ import print_function
 MuhammedAli_can = 200
 MuhammedAli_hasar = 15
 Frazer_can = 150
