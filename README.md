@@ -13,8 +13,8 @@ Muhammad Ali-Frazer Box Match- Random Health Players
 
 ---TURKISH VERSION---
 
-
-#from __future__ import print_function
+```
+from __future__ import print_function
 MuhammedAli_can = 200
 MuhammedAli_hasar = 15
 Frazer_can = 150
@@ -66,10 +66,10 @@ print(sonuç)
 
      # Frazer Muhammed Ali ile Hakem'e saldıran boksör.
       # Frazer kazandı.
-
+```
 ---ENGLISH VERSION---
 
-
+```
 from __future__ import print_function
 MuhammedAli_health = 200
 MuhammedAli_damage = 15
